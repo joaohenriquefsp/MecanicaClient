@@ -1,0 +1,85 @@
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\CadMedalhas.exe
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\CadMedalhas.deps.json
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\CadMedalhas.runtimeconfig.json
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\CadMedalhas.runtimeconfig.dev.json
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\CadMedalhas.dll
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\ref\CadMedalhas.dll
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\CadMedalhas.pdb
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.csproj.AssemblyReference.cache
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.Form1.resources
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.csproj.GenerateResource.cache
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.GeneratedMSBuildEditorConfig.editorconfig
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.AssemblyInfoInputs.cache
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.AssemblyInfo.cs
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.csproj.CoreCompileInputs.cache
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.dll
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\ref\CadMedalhas.dll
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.pdb
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.genruntimeconfig.cache
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.Form2.resources
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\Google.Protobuf.dll
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\MySql.Data.dll
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\Zstandard.Net.dll
+G:\Desenvolvimento\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.csproj.CopyComplete
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\CadMedalhas.exe
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\CadMedalhas.deps.json
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\CadMedalhas.runtimeconfig.json
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\CadMedalhas.runtimeconfig.dev.json
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\CadMedalhas.dll
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\ref\CadMedalhas.dll
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\CadMedalhas.pdb
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\Google.Protobuf.dll
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\MySql.Data.dll
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\Zstandard.Net.dll
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.csproj.AssemblyReference.cache
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.Form1.resources
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.Form2.resources
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.csproj.GenerateResource.cache
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.GeneratedMSBuildEditorConfig.editorconfig
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.AssemblyInfoInputs.cache
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.AssemblyInfo.cs
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.csproj.CoreCompileInputs.cache
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.csproj.CopyComplete
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.dll
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\ref\CadMedalhas.dll
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.pdb
+Z:\UEMG\21-SIS-3UNI-PROGI-202101\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.genruntimeconfig.cache
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\CadMedalhas.exe
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\CadMedalhas.deps.json
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\CadMedalhas.runtimeconfig.json
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\CadMedalhas.runtimeconfig.dev.json
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\CadMedalhas.dll
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\ref\CadMedalhas.dll
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\CadMedalhas.pdb
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.csproj.AssemblyReference.cache
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.csproj.GenerateResource.cache
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.AssemblyInfoInputs.cache
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.AssemblyInfo.cs
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.csproj.CopyComplete
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.dll
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\ref\CadMedalhas.dll
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.pdb
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.genruntimeconfig.cache
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadMedalhas.Properties.Resources.resources
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadClientes.Form1.resources
+C:\Users\joao_\Desktop\João H\21-SIS-3UN-PROG1-012021-main\21-SIS-3UN-PROG1-012021-main\progCsharp01\CadMedalhas\CadMedalhas\obj\Debug\net5.0-windows\CadClientes.Form2.resources
